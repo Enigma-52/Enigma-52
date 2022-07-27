@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enigma-52&label=Profile%20views&color=0e75b6&style=flat" alt="enigma-52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enigma-52" alt="enigma-52" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Enigma_52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Competitive Programming, Web Development**
