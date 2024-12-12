@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Enigma_52&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=enigma-52" alt="enigma-52" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Competitive Programming, Web Development**
+- 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **rohit.singh.33521@gmail.com**
+- 📫 How to reach me **rohitsingh.work.25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
