@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh.</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enigma-52&label=Profile%20views&color=0e75b6&style=flat" alt="enigma-52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enigma-52&label=Profile%20views&color=0e75b6&style=flat" alt="enigma-52" /> </p> <a href="https://wakatime.com/@018da7bb-d8cd-4efc-b295-455e1afc3f2c"><img src="https://wakatime.com/badge/user/018da7bb-d8cd-4efc-b295-455e1afc3f2c.svg" alt="Total time coded since Feb 14 2024" /></a>
 
 <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=Enigma_52&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=enigma-52" alt="enigma-52" /></a> </p>
 
