@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [WorkWay](https://workway.dev/)
+- 🔭 I’m currently working on [WorkWay](https://www.workway.dev/)
 - 👨‍💻 All of my projects: [https://enigma52.vercel.app/](https://enigma52.vercel.app/)
 - 📫 Reach me at **rohitsingh.work.25@gmail.com**
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1tHTGWqP1EkRGF9xiyjReEaQK_sZKeLuh/view?usp=sharing)
